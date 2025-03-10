@@ -7,7 +7,7 @@ from pymongo import MongoClient
 import os
 
 def connect_to_mongodb():
-    client = MongoClient("mongodb+srv://ranjancitulb:LSaBeKHZ0OqvsT4R@cluster0.rpuy0.mongodb.net/")  # Change URL as needed
+    client = MongoClient("")  # Change URL as needed
     db = client["image_database"]  # Database name
     return db["image_palettes"]  # Collection name
 
