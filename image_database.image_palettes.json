@@ -1,0 +1,1025 @@
+[{
+  "_id": {
+    "$oid": "67ce7d160e97e19e646afb81"
+  },
+  "image_id": 46,
+  "color_palette": [
+    {
+      "hex": "#20100b"
+    },
+    {
+      "hex": "#9cb8a5"
+    },
+    {
+      "hex": "#b22917"
+    },
+    {
+      "hex": "#d5d7c7"
+    },
+    {
+      "hex": "#9e7656"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741583775/next-cloudinary-uploads/pxdoreciim2xbnacdssp.jpg",
+  "image_title": "images.jpg"
+},
+{
+  "_id": {
+    "$oid": "67ce7d720e97e19e646afb82"
+  },
+  "image_id": 45,
+  "color_palette": [
+    {
+      "hex": "#241329"
+    },
+    {
+      "hex": "#bdbbc8"
+    },
+    {
+      "hex": "#a4262b"
+    },
+    {
+      "hex": "#d79319"
+    },
+    {
+      "hex": "#2878a8"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741583763/next-cloudinary-uploads/wedi85joxoq7t4gh3m7j.jpg",
+  "image_title": "photo-1605721911519-3dfeb3be25e7.jpg"
+},
+{
+  "_id": {
+    "$oid": "67ce7d760e97e19e646afb83"
+  },
+  "image_id": 44,
+  "color_palette": [
+    {
+      "hex": "#496fa0"
+    },
+    {
+      "hex": "#e7e8d1"
+    },
+    {
+      "hex": "#91abba"
+    },
+    {
+      "hex": "#db9f44"
+    },
+    {
+      "hex": "#1d3270"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741583747/next-cloudinary-uploads/b28kn2rhl2lcs2yp2qhw.jpg",
+  "image_title": "IMG_20170114_222025_931-58a01296a1b60__880.jpg"
+},
+{
+  "_id": {
+    "$oid": "67ce7d7d0e97e19e646afb84"
+  },
+  "image_id": 43,
+  "color_palette": [
+    {
+      "hex": "#5d4f48"
+    },
+    {
+      "hex": "#cead88"
+    },
+    {
+      "hex": "#0cc5eb"
+    },
+    {
+      "hex": "#b48a47"
+    },
+    {
+      "hex": "#4c9117"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741583735/next-cloudinary-uploads/k5zrtyi8bl4zgmtrf6vl.jpg",
+  "image_title": "46c76b3197d98d43494875ba8681b368.jpg"
+},
+{
+  "_id": {
+    "$oid": "67ce7da20e97e19e646afb85"
+  },
+  "image_id": 42,
+  "color_palette": [
+    {
+      "hex": "#31524e"
+    },
+    {
+      "hex": "#e87762"
+    },
+    {
+      "hex": "#878b8a"
+    },
+    {
+      "hex": "#0e211f"
+    },
+    {
+      "hex": "#e0dbc4"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741583722/next-cloudinary-uploads/jua96btg2av6inxhermw.jpg",
+  "image_title": "817jrVnAj1L.jpg"
+},
+{
+  "_id": {
+    "$oid": "67ce7da60e97e19e646afb86"
+  },
+  "image_id": 41,
+  "color_palette": [
+    {
+      "hex": "#18130e"
+    },
+    {
+      "hex": "#d9b85f"
+    },
+    {
+      "hex": "#a96942"
+    },
+    {
+      "hex": "#dfd9b0"
+    },
+    {
+      "hex": "#5b4b32"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741583708/next-cloudinary-uploads/dnvqu5pmcl2jjxaow3wz.jpg",
+  "image_title": "135589SAI.jpg"
+},
+{
+  "_id": {
+    "$oid": "67ce7db50e97e19e646afb87"
+  },
+  "image_id": 40,
+  "color_palette": [
+    {
+      "hex": "#db7a3c"
+    },
+    {
+      "hex": "#2f82ac"
+    },
+    {
+      "hex": "#b096a2"
+    },
+    {
+      "hex": "#50423f"
+    },
+    {
+      "hex": "#976c5c"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741583687/next-cloudinary-uploads/gsy1swavrl2kooyg8zgk.jpg",
+  "image_title": "Test"
+},
+{
+  "_id": {
+    "$oid": "67ce7dc00e97e19e646afb88"
+  },
+  "image_id": 39,
+  "color_palette": [
+    {
+      "hex": "#2e1d1d"
+    },
+    {
+      "hex": "#8ebde8"
+    },
+    {
+      "hex": "#ad9225"
+    },
+    {
+      "hex": "#8b492a"
+    },
+    {
+      "hex": "#0f54a5"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741583674/next-cloudinary-uploads/wwmfjzaxdbjofdfdydpc.jpg",
+  "image_title": "5246676e729f80c1837f8d951f425e39.jpg"
+},
+{
+  "_id": {
+    "$oid": "67ce7dc30e97e19e646afb89"
+  },
+  "image_id": 38,
+  "color_palette": [
+    {
+      "hex": "#0988d9"
+    },
+    {
+      "hex": "#0d1b0e"
+    },
+    {
+      "hex": "#bc672c"
+    },
+    {
+      "hex": "#683413"
+    },
+    {
+      "hex": "#accbbe"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741583657/next-cloudinary-uploads/crmwywc4ckbjgq7whxox.jpg",
+  "image_title": "indian_paintings___radha_krishna_love_by_artsnyou_d6zzgt8"
+},
+{
+  "_id": {
+    "$oid": "67ce7dc80e97e19e646afb8a"
+  },
+  "image_id": 37,
+  "color_palette": [
+    {
+      "hex": "#272b26"
+    },
+    {
+      "hex": "#ad7e4b"
+    },
+    {
+      "hex": "#664e38"
+    },
+    {
+      "hex": "#d7bc8f"
+    },
+    {
+      "hex": "#030a04"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741583637/next-cloudinary-uploads/k3xhveakxocbffola2nu.jpg",
+  "image_title": "Indian Art -3"
+},
+{
+  "_id": {
+    "$oid": "67ce7de30e97e19e646afb8b"
+  },
+  "image_id": 36,
+  "color_palette": [
+    {
+      "hex": "#d9996a"
+    },
+    {
+      "hex": "#2b969b"
+    },
+    {
+      "hex": "#1f2228"
+    },
+    {
+      "hex": "#b8e2df"
+    },
+    {
+      "hex": "#b15b1f"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741583617/next-cloudinary-uploads/s1lavcrapa1ckubhfugq.jpg",
+  "image_title": "Indian Art -2"
+},
+{
+  "_id": {
+    "$oid": "67ce7df40e97e19e646afb8c"
+  },
+  "image_id": 35,
+  "color_palette": [
+    {
+      "hex": "#a95927"
+    },
+    {
+      "hex": "#e0a961"
+    },
+    {
+      "hex": "#1d3d2c"
+    },
+    {
+      "hex": "#94d1e2"
+    },
+    {
+      "hex": "#3a8fa4"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741583600/next-cloudinary-uploads/lwyzlhpgt8fiaifplcqe.jpg",
+  "image_title": "Indian Art -1"
+},
+{
+  "_id": {
+    "$oid": "67ce7df90e97e19e646afb8d"
+  },
+  "image_id": 34,
+  "color_palette": [
+    {
+      "hex": "#a84922"
+    },
+    {
+      "hex": "#241917"
+    },
+    {
+      "hex": "#e2be6a"
+    },
+    {
+      "hex": "#207f2a"
+    },
+    {
+      "hex": "#255290"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741583585/next-cloudinary-uploads/tpz12gh2k0sujimz1l0f.jpg",
+  "image_title": "Indian Art"
+},
+{
+  "_id": {
+    "$oid": "67ce7e020e97e19e646afb8e"
+  },
+  "image_id": 33,
+  "color_palette": [
+    {
+      "hex": "#2d6181"
+    },
+    {
+      "hex": "#c8c4b3"
+    },
+    {
+      "hex": "#94473c"
+    },
+    {
+      "hex": "#213338"
+    },
+    {
+      "hex": "#d8b230"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741583570/next-cloudinary-uploads/qaacs0ax9khyj5jj6da6.jpg",
+  "image_title": "IMG_20210720_215845_926.jpg"
+},
+{
+  "_id": {
+    "$oid": "67ce7e0d0e97e19e646afb8f"
+  },
+  "image_id": 32,
+  "color_palette": [
+    {
+      "hex": "#22252a"
+    },
+    {
+      "hex": "#cab66d"
+    },
+    {
+      "hex": "#0b3ec2"
+    },
+    {
+      "hex": "#74754b"
+    },
+    {
+      "hex": "#bd1d17"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741583554/next-cloudinary-uploads/whc91qbymycsh4tq9yml.jpg",
+  "image_title": "Indian-art-Pragati-Singh-01.jpg"
+},
+{
+  "_id": {
+    "$oid": "67ce7e110e97e19e646afb90"
+  },
+  "image_id": 31,
+  "color_palette": [
+    {
+      "hex": "#0f171a"
+    },
+    {
+      "hex": "#e89e1b"
+    },
+    {
+      "hex": "#205258"
+    },
+    {
+      "hex": "#cdd3c6"
+    },
+    {
+      "hex": "#2677ab"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741583537/next-cloudinary-uploads/hbo0mz0i8nszpsxnz97j.jpg",
+  "image_title": "8645899-RRHWBXXP-7.jpg"
+},
+{
+  "_id": {
+    "$oid": "67ce7e300e97e19e646afb91"
+  },
+  "image_id": 30,
+  "color_palette": [
+    {
+      "hex": "#210e09"
+    },
+    {
+      "hex": "#e2ddcb"
+    },
+    {
+      "hex": "#e3991b"
+    },
+    {
+      "hex": "#ac210a"
+    },
+    {
+      "hex": "#656c36"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741583514/next-cloudinary-uploads/rxemgg1rndstdx1keiv5.jpg",
+  "image_title": "bhdbhfbdhb"
+},
+{
+  "_id": {
+    "$oid": "67ce7e3a0e97e19e646afb92"
+  },
+  "image_id": 29,
+  "color_palette": [
+    {
+      "hex": "#ddccb8"
+    },
+    {
+      "hex": "#336183"
+    },
+    {
+      "hex": "#61a5bd"
+    },
+    {
+      "hex": "#c67e46"
+    },
+    {
+      "hex": "#292735"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741583501/next-cloudinary-uploads/gokutrpwereiyu8ax6hq.jpg",
+  "image_title": "201911210947330370918001574309853"
+},
+{
+  "_id": {
+    "$oid": "67ce7e3d0e97e19e646afb93"
+  },
+  "image_id": 28,
+  "color_palette": [
+    {
+      "hex": "#e3dcca"
+    },
+    {
+      "hex": "#060409"
+    },
+    {
+      "hex": "#1c76ad"
+    },
+    {
+      "hex": "#ebc137"
+    },
+    {
+      "hex": "#983841"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741583486/next-cloudinary-uploads/knleuqkyiiies1meujzd.jpg",
+  "image_title": "hq720"
+},
+{
+  "_id": {
+    "$oid": "67ce7e410e97e19e646afb94"
+  },
+  "image_id": 27,
+  "color_palette": [
+    {
+      "hex": "#fdfdfc"
+    },
+    {
+      "hex": "#cc2469"
+    },
+    {
+      "hex": "#2c76c2"
+    },
+    {
+      "hex": "#4a5b40"
+    },
+    {
+      "hex": "#e97d2e"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741583463/next-cloudinary-uploads/awjamktqww6hw5xnj6j5.jpg",
+  "image_title": "APFK-Home-Paint-Face"
+},
+{
+  "_id": {
+    "$oid": "67ce7e440e97e19e646afb95"
+  },
+  "image_id": 26,
+  "color_palette": [
+    {
+      "hex": "#94eb4e"
+    },
+    {
+      "hex": "#6434a4"
+    },
+    {
+      "hex": "#e83b19"
+    },
+    {
+      "hex": "#f683c4"
+    },
+    {
+      "hex": "#422e26"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741583440/next-cloudinary-uploads/phtj6sosg6wfriccg326.jpg",
+  "image_title": "Image3"
+},
+{
+  "_id": {
+    "$oid": "67ce7e470e97e19e646afb96"
+  },
+  "image_id": 25,
+  "color_palette": [
+    {
+      "hex": "#415d78"
+    },
+    {
+      "hex": "#fbfaf9"
+    },
+    {
+      "hex": "#94a3ad"
+    },
+    {
+      "hex": "#d56c3d"
+    },
+    {
+      "hex": "#472724"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741583426/next-cloudinary-uploads/mnmegngbu6hgtrg6zktk.jpg",
+  "image_title": "Abstract"
+},
+{
+  "_id": {
+    "$oid": "67ce7e580e97e19e646afb98"
+  },
+  "image_id": 24,
+  "color_palette": [
+    {
+      "hex": "#77171d"
+    },
+    {
+      "hex": "#edeacb"
+    },
+    {
+      "hex": "#b45e5f"
+    },
+    {
+      "hex": "#ebd645"
+    },
+    {
+      "hex": "#201c15"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741583409/next-cloudinary-uploads/ww4pxohnpljphhbtjam0.jpg",
+  "image_title": "Peacock-MadhubaniPainting-FolkArtOfIndia_af8a25dc-dbe6-44b2-ab61-200d1f566721"
+},
+{
+  "_id": {
+    "$oid": "67ce7e610e97e19e646afb99"
+  },
+  "image_id": 23,
+  "color_palette": [
+    {
+      "hex": "#728eb4"
+    },
+    {
+      "hex": "#040302"
+    },
+    {
+      "hex": "#dae0eb"
+    },
+    {
+      "hex": "#a25f22"
+    },
+    {
+      "hex": "#234759"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741583390/next-cloudinary-uploads/gnc2sh1m7cqri9jtgmum.jpg",
+  "image_title": "YICdtrMj"
+},
+{
+  "_id": {
+    "$oid": "67ce7e620e97e19e646afb9a"
+  },
+  "image_id": 22,
+  "color_palette": [
+    {
+      "hex": "#907666"
+    },
+    {
+      "hex": "#d2cfcf"
+    },
+    {
+      "hex": "#3f3133"
+    },
+    {
+      "hex": "#90201c"
+    },
+    {
+      "hex": "#d19b4f"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741583370/next-cloudinary-uploads/bc01ep2mebgjk6gkb9j5.jpg",
+  "image_title": "Image1"
+},
+{
+  "_id": {
+    "$oid": "67ce7e660e97e19e646afb9b"
+  },
+  "image_id": 21,
+  "color_palette": [
+    {
+      "hex": "#6f615a"
+    },
+    {
+      "hex": "#833736"
+    },
+    {
+      "hex": "#b6b2aa"
+    },
+    {
+      "hex": "#a9896d"
+    },
+    {
+      "hex": "#312a2e"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741583341/next-cloudinary-uploads/kk0ouqzvc1xifnr3mr41.jpg",
+  "image_title": "15fc9939a518c71d72d994d9693312ac"
+},
+{
+  "_id": {
+    "$oid": "67ce7e680e97e19e646afb9c"
+  },
+  "image_id": 20,
+  "color_palette": [
+    {
+      "hex": "#75564e"
+    },
+    {
+      "hex": "#f4eee1"
+    },
+    {
+      "hex": "#e5ba40"
+    },
+    {
+      "hex": "#2c1b1d"
+    },
+    {
+      "hex": "#b49e98"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741583323/next-cloudinary-uploads/f42npnygmps2hpbdl0fq.jpg",
+  "image_title": "s-l400"
+},
+{
+  "_id": {
+    "$oid": "67ce7e720e97e19e646afb9d"
+  },
+  "image_id": 19,
+  "color_palette": [
+    {
+      "hex": "#814346"
+    },
+    {
+      "hex": "#dac1c1"
+    },
+    {
+      "hex": "#e6993a"
+    },
+    {
+      "hex": "#322c26"
+    },
+    {
+      "hex": "#949096"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741583294/next-cloudinary-uploads/yej554eknax8hplejwlv.jpg",
+  "image_title": "Image"
+},
+{
+  "_id": {
+    "$oid": "67ce7e7a0e97e19e646afb9e"
+  },
+  "image_id": 18,
+  "color_palette": [
+    {
+      "hex": "#1b1d1c"
+    },
+    {
+      "hex": "#fcf8e5"
+    },
+    {
+      "hex": "#b88755"
+    },
+    {
+      "hex": "#72391a"
+    },
+    {
+      "hex": "#0f3d48"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741583273/next-cloudinary-uploads/mtam8m9g3wsdvbhsrppp.jpg",
+  "image_title": "Image1"
+},
+{
+  "_id": {
+    "$oid": "67ce7e7c0e97e19e646afb9f"
+  },
+  "image_id": 17,
+  "color_palette": [
+    {
+      "hex": "#dcba80"
+    },
+    {
+      "hex": "#232025"
+    },
+    {
+      "hex": "#e1dbd6"
+    },
+    {
+      "hex": "#685247"
+    },
+    {
+      "hex": "#927d68"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741583257/next-cloudinary-uploads/lxvldecwmxjx1zdzesmn.jpg",
+  "image_title": "feed5ebe73f24f5285d659d14cdc5fd3"
+},
+{
+  "_id": {
+    "$oid": "67ce7e7e0e97e19e646afba0"
+  },
+  "image_id": 16,
+  "color_palette": [
+    {
+      "hex": "#78634d"
+    },
+    {
+      "hex": "#7c9c8a"
+    },
+    {
+      "hex": "#191e2b"
+    },
+    {
+      "hex": "#2088d1"
+    },
+    {
+      "hex": "#aed2a5"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741583231/next-cloudinary-uploads/pogitlet8p0fgf7pqcrk.jpg",
+  "image_title": "c1806be8b936aea21de9384735ed9f11"
+},
+{
+  "_id": {
+    "$oid": "67ce7e870e97e19e646afba1"
+  },
+  "image_id": 15,
+  "color_palette": [
+    {
+      "hex": "#080909"
+    },
+    {
+      "hex": "#c5c3b8"
+    },
+    {
+      "hex": "#54524f"
+    },
+    {
+      "hex": "#604d03"
+    },
+    {
+      "hex": "#c89a40"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741519617/next-cloudinary-uploads/kd402chirrtxrljlj0jo.jpg",
+  "image_title": "Drawing-04"
+},
+{
+  "_id": {
+    "$oid": "67ce7e990e97e19e646afba3"
+  },
+  "image_id": 14,
+  "color_palette": [
+    {
+      "hex": "#124281"
+    },
+    {
+      "hex": "#e9e7e3"
+    },
+    {
+      "hex": "#e6b879"
+    },
+    {
+      "hex": "#e8552f"
+    },
+    {
+      "hex": "#6c9dcc"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741351731/next-cloudinary-uploads/fasxyys13ufeu1kofmxu.jpg",
+  "image_title": "“Art is the colors and textures of your imagination.”"
+},
+{
+  "_id": {
+    "$oid": "67ce7e9f0e97e19e646afba4"
+  },
+  "image_id": 13,
+  "color_palette": [
+    {
+      "hex": "#f3e5dc"
+    },
+    {
+      "hex": "#380707"
+    },
+    {
+      "hex": "#b39f9e"
+    },
+    {
+      "hex": "#fefdfd"
+    },
+    {
+      "hex": "#75514d"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741351440/next-cloudinary-uploads/ln8tbdfxxinpxiykxupu.png",
+  "image_title": "𝑾𝒊𝒕𝒉 𝒕𝒉𝒆 𝒔𝒕𝒓𝒐𝒌𝒆𝒔 𝒐𝒇 𝒂 𝒃𝒓𝒖𝒔𝒉,🖌️ 𝒕𝒉𝒆 𝒎𝒆𝒍𝒐𝒅𝒚 𝒐𝒇 𝒄𝒓𝒆𝒂𝒕𝒊𝒐𝒏—𝒃𝒍𝒆𝒔𝒔𝒊𝒏𝒈𝒔 𝒐𝒇 𝒕𝒉𝒆 𝑮𝒐𝒅𝒅𝒆𝒔𝒔 𝒐𝒇 𝑲𝒏𝒐𝒘𝒍𝒆𝒅𝒈𝒆!"
+},
+{
+  "_id": {
+    "$oid": "67ce7eab0e97e19e646afba5"
+  },
+  "image_id": 12,
+  "color_palette": [
+    {
+      "hex": "#080605"
+    },
+    {
+      "hex": "#e2b287"
+    },
+    {
+      "hex": "#da7f32"
+    },
+    {
+      "hex": "#fbe6d4"
+    },
+    {
+      "hex": "#6f6053"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741351100/next-cloudinary-uploads/zy9qjttxj6f4vk23bbog.png",
+  "image_title": "LORD SHIVA"
+},
+{
+  "_id": {
+    "$oid": "67ce7eb80e97e19e646afba6"
+  },
+  "image_id": 11,
+  "color_palette": [
+    {
+      "hex": "#32382a"
+    },
+    {
+      "hex": "#fcfcfc"
+    },
+    {
+      "hex": "#b78852"
+    },
+    {
+      "hex": "#14130d"
+    },
+    {
+      "hex": "#675d43"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741349748/next-cloudinary-uploads/fs2tx7vtpckuq79yaatq.jpg",
+  "image_title": "Whispers of the Shadow"
+},
+{
+  "_id": {
+    "$oid": "67ce7ec10e97e19e646afba7"
+  },
+  "image_id": 10,
+  "color_palette": [
+    {
+      "hex": "#b49964"
+    },
+    {
+      "hex": "#37322e"
+    },
+    {
+      "hex": "#cac1c4"
+    },
+    {
+      "hex": "#8c4d2b"
+    },
+    {
+      "hex": "#596a6e"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741347971/next-cloudinary-uploads/vgrupkhskytfvw217ygz.jpg",
+  "image_title": "Horse"
+},
+{
+  "_id": {
+    "$oid": "67ce7eca0e97e19e646afba8"
+  },
+  "image_id": 7,
+  "color_palette": [
+    {
+      "hex": "#038dc7"
+    },
+    {
+      "hex": "#a89aaa"
+    },
+    {
+      "hex": "#0b0f10"
+    },
+    {
+      "hex": "#c28c29"
+    },
+    {
+      "hex": "#644e36"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741344480/next-cloudinary-uploads/sf87dmpvtpaaq0wxagw4.jpg",
+  "image_title": "Drawing-03"
+},
+{
+  "_id": {
+    "$oid": "67ce7ed60e97e19e646afba9"
+  },
+  "image_id": 6,
+  "color_palette": [
+    {
+      "hex": "#0a0909"
+    },
+    {
+      "hex": "#e1e1c9"
+    },
+    {
+      "hex": "#ac8402"
+    },
+    {
+      "hex": "#898778"
+    },
+    {
+      "hex": "#302b34"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741344457/next-cloudinary-uploads/jncnrpxp5ner6tx7rt4m.jpg",
+  "image_title": "Drawing-02"
+},
+{
+  "_id": {
+    "$oid": "67ce7edf0e97e19e646afbaa"
+  },
+  "image_id": 5,
+  "color_palette": [
+    {
+      "hex": "#3d6540"
+    },
+    {
+      "hex": "#0d0703"
+    },
+    {
+      "hex": "#b58f12"
+    },
+    {
+      "hex": "#8b9e93"
+    },
+    {
+      "hex": "#7d191f"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741344392/next-cloudinary-uploads/vgdmkzn0opus5gj0zkmm.jpg",
+  "image_title": "Drawing-01"
+},
+{
+  "_id": {
+    "$oid": "67ce7f5e0e97e19e646afbab"
+  },
+  "image_id": 3,
+  "color_palette": [
+    {
+      "hex": "#9e654c"
+    },
+    {
+      "hex": "#61482e"
+    },
+    {
+      "hex": "#fae2d2"
+    },
+    {
+      "hex": "#d8a181"
+    },
+    {
+      "hex": "#382012"
+    }
+  ],
+  "image_path": "https://res.cloudinary.com/djj43ne9y/image/upload/v1741334741/next-cloudinary-uploads/kjsmq9ucx8wt0hh0wgha.jpg",
+  "image_title": "Saraswati Puja 2024"
+}]
