@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Color Matching Results</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+        .color-box {
+            width: 100px;
+            height: 100px;
+            border: 2px solid #000;
+            display: inline-block;
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Closest Colors to <span style="color: {{ target_color }};">{{ target_color }}</span></h1>
+
+    {% for result in results %}
+        <div>
+            <div class="color-box" style="background-color: {{ result['closest_color'] }};"></div>
+            <img src="{{ result['image_path'] }}" alt="" srcset="" height="200" width="200">
+            <p>{{ result['image_name'] }}</p>
+            <p>Color: {{ result['closest_color'] }}</p>
+            <p>Distance: {{ "%.2f"|format(result['distance']) }}</p>
+        </div>
+    {% endfor %}
+
+    <br>
+    <a href="/">Go Back</a>
+</body>
+</html>

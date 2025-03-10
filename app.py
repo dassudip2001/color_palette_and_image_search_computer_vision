@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, render_template
 from scipy.spatial import distance
 import json
 import os
@@ -33,19 +33,20 @@ with open('image_database.image_palettes.json', encoding='utf-8') as f:
 
 @app.route('/')
 def home():
-    return 'Welcome to the Color Matching API!'    
+    return render_template('index.html')
 
 @app.route('/closest-colors', methods=['POST'])
 def get_closest_colors():
-    data = request.json
-    target_color = data.get('target_color')
-    top_n = data.get('top_n', 3)
+    target_color = request.form.get('target_color')
+    top_n = int(request.form.get('top_n', 3))
 
-    if not target_color or len(target_color) != 3:
-        return jsonify({"error": "Invalid target_color. Provide a valid RGB array."}), 400
+    if not target_color:
+        return jsonify({"error": "Please provide a valid hex color code."}), 400
 
-    results = closest_colors(target_color, image_data, top_n)
-    return jsonify(results)
+    target_rgb = hex_to_rgb(target_color)
+    results = closest_colors(target_rgb, image_data, top_n)
+    
+    return render_template('results.html', results=results, target_color=target_color)
 
 if __name__ == '__main__':
     app.run(debug=True, port=os.getenv("PORT", default=5002))
