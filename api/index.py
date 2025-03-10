@@ -31,6 +31,10 @@ def closest_colors(target_color, image_data, top_n=3):
 with open('image_database.image_palettes.json', encoding='utf-8') as f:
     image_data = json.load(f)
 
+@app.route('/')
+def home():
+    return 'Welcome to the Color Matching API!'    
+
 @app.route('/closest-colors', methods=['POST'])
 def get_closest_colors():
     data = request.json
