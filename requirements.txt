@@ -1,4 +1,3 @@
-# /requirements.txt
-
-flask==3.0.0
-# other required dependencies
+Flask
+scipy
+gunicorn
