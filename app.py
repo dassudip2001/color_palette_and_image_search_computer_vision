@@ -19,8 +19,8 @@ def closest_colors(target_color, image_data, top_n=3):
             color_rgb = hex_to_rgb(color_data['hex'])
             dist = distance.euclidean(target_color, color_rgb)
             matches.append({
-                "image_name": image['image_title'],
-                "image_path": image['image_path'],
+                "image_name": image['accession_number'],
+                "image_path": image['primary_image'],
                 "closest_color": color_data['hex'],
                 "distance": dist
             })
@@ -28,7 +28,7 @@ def closest_colors(target_color, image_data, top_n=3):
     return sorted(matches, key=lambda x: x['distance'])[:top_n]
 
 # Load image data
-with open('image_database.image_palettes.json', encoding='utf-8') as f:
+with open('map_database.image_palettes.json', encoding='utf-8') as f:
     image_data = json.load(f)
 
 @app.route('/')
@@ -45,6 +45,8 @@ def get_closest_colors():
 
     target_rgb = hex_to_rgb(target_color)
     results = closest_colors(target_rgb, image_data, top_n)
+
+    # return jsonify(results)
     
     return render_template('results.html', results=results, target_color=target_color)
 

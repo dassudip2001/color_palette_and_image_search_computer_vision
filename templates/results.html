@@ -1,36 +1,56 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Color Matching Results</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            margin-top: 50px;
-        }
-        .color-box {
-            width: 100px;
-            height: 100px;
-            border: 2px solid #000;
-            display: inline-block;
-            margin: 10px;
-        }
-    </style>
+    <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body>
-    <h1>Closest Colors to <span style="color: {{ target_color }};">{{ target_color }}</span></h1>
-
-    {% for result in results %}
-        <div>
-            <div class="color-box" style="background-color: {{ result['closest_color'] }};"></div>
-            <img src="{{ result['image_path'] }}" alt="" srcset="" height="200" width="200">
-            <p>{{ result['image_name'] }}</p>
-            <p>Color: {{ result['closest_color'] }}</p>
-            <p>Distance: {{ "%.2f"|format(result['distance']) }}</p>
+<body class="bg-gray-100 p-6">
+    <div class="max-w-5xl mx-auto">
+        <h1 class="text-3xl font-bold text-center mb-8">Closest Colors to <span class="px-2 py-1 rounded-md" style="background-color: {{ target_color }}; color: white;">{{ target_color }}</span></h1>
+        
+        <!-- Featured Item -->
+        <div class="bg-white shadow-lg rounded-lg p-6 flex flex-col items-center text-center">
+            {% if results|length > 0 %}
+            <img src="{{ results[0]['image_path'] }}" alt="{{ results[0]['image_name'] }}" class="h-60 object-contain mb-4">
+            <div class="w-20 h-20 rounded-md border-2 border-gray-800 mb-2" style="background-color: {{ results[0]['closest_color'] }};"></div>
+            <p class="font-semibold">{{ results[0]['image_name'] }}</p>
+            <p class="text-gray-600">Color: {{ results[0]['closest_color'] }}</p>
+            <p class="text-gray-500">Distance: {{ "%.2f"|format(results[0]['distance']) }}</p>
+            {% else %}
+            <p class="text-gray-500">No results to display</p>
+            {% endif %}
         </div>
-    {% endfor %}
-
-    <br>
-    <a href="/">Go Back</a>
+        
+        <!-- Results Grid -->
+        <h2 class="text-2xl font-semibold mt-8 mb-4">All Results</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
+            {% for result in results %}
+            <div class="bg-white shadow-md rounded-lg p-4 cursor-pointer transform transition hover:-translate-y-2" onclick="showInCanvas('{{ result['image_path'] }}', '{{ result['image_name'] }}', '{{ result['closest_color'] }}', {{ result['distance'] }})">
+                <img src="{{ result['image_path'] }}" alt="{{ result['image_name'] }}" class="h-40 object-contain mx-auto">
+                <div class="w-12 h-12 rounded-md border-2 border-gray-800 mx-auto mt-3" style="background-color: {{ result['closest_color'] }};"></div>
+                <p class="text-center font-semibold mt-2">{{ result['image_name'] }}</p>
+                <p class="text-center text-gray-600">Color: {{ result['closest_color'] }}</p>
+                <p class="text-center text-gray-500">Distance: {{ "%.2f"|format(result['distance']) }}</p>
+            </div>
+            {% endfor %}
+        </div>
+        
+        <a href="/" class="block text-center mt-8 bg-gray-700 text-white py-3 px-6 rounded-md hover:bg-gray-900 transition">Go Back</a>
+    </div>
+    
+    <script>
+        function showInCanvas(imagePath, imageName, color, distance) {
+            document.querySelector('.bg-white.shadow-lg').innerHTML = `
+                <img src="${imagePath}" alt="${imageName}" class="h-60 object-contain mb-4">
+                <div class="w-20 h-20 rounded-md border-2 border-gray-800 mb-2" style="background-color: ${color};"></div>
+                <p class="font-semibold">${imageName}</p>
+                <p class="text-gray-600">Color: ${color}</p>
+                <p class="text-gray-500">Distance: ${distance.toFixed(2)}</p>
+            `;
+            document.querySelector('.bg-white.shadow-lg').scrollIntoView({ behavior: 'smooth' });
+        }
+    </script>
 </body>
 </html>
